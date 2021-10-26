@@ -1,0 +1,80 @@
+Historique revendiqué
+
+League of Legends DDoS
+
+Le 18 août 2014, les serveurs du jeu League of Legends ont été mis hors ligne par une attaque DDoS ; cette attaque a été revendiquée comme étant la première attaque de Lizard Squad.
+
+DDoS de Destiny
+
+Le 23 novembre 2014, Lizard Squad a affirmé avoir attaqué les serveurs de Destiny avec une attaque DDoS.
+
+DDoS du réseau PlayStation
+
+Le 24 août 2014, le PlayStation Network a été perturbé par une attaque DDoS, puis à nouveau le 8 décembre, Lizard Squad en revendiquant la responsabilité.
+
+DDoS du Xbox Live
+
+Le 1er décembre 2014, le Xbox Live a apparemment été attaqué par Lizard Squad : les utilisateurs qui tentaient de se connecter pour utiliser le service recevaient le code d'erreur 80151909.
+
+Le piratage de Machinima
+
+Le 2 décembre 2014, Lizard Squad a piraté Machinima.com, remplaçant leur page d'accueil par un art ASCII de leur logo.
+
+DDoS de la Corée du Nord
+
+Le 22 décembre 2014, Internet en Corée du Nord a été mis hors ligne par une attaque DDoS[18] Lizard Squad a revendiqué l'attaque et a établi un lien avec une adresse IP située en Corée du Nord[19] Les services Internet nord-coréens ont été rétablis le 23 décembre 2014.
+
+
+Attaques de Noël
+
+Lizard Squad avait déjà menacé de mettre hors service des services de jeux à Noël[21].
+
+Le 25 décembre 2014 (jour de Noël), Lizard Squad a affirmé avoir réalisé une attaque DDoS sur le PlayStation Network et le Xbox Live. Le 26 décembre 2014 à 2 h du matin, [quand ?] Lizard Squad a semblé cesser d'attaquer le PlayStation Network et le Xbox Live. Gizmodo a rapporté que les attaques ont pu cesser après que Kim Dotcom a offert à Lizard Squad 3000 comptes sur son service de téléchargement MEGA.
+
+Attaque sybille de Tor
+
+Le 26 décembre 2014, une attaque sybille impliquant plus de 3000 relais a été tentée contre le réseau Tor[23] Des nœuds dont le nom commence par "LizardNSA" ont commencé à apparaître, Lizard Squad a revendiqué cette attaque[24].
+
+La pertinence de l'attaque a été remise en question. Selon l'opérateur de nœuds relais Tor Thomas White, le système de consensus a fait que Lizard Squad n'a réussi à contrôler que "0,2743% du réseau, l'équivalent d'un minuscule VPS".
+
+Attaque du site Web de Malaysia Airlines
+
+Le 26 janvier 2015, le site Web de Malaysia Airlines a été attaqué, apparemment par Lizard Squad, qui se qualifie de "cyber-califat". Les utilisateurs ont été redirigés vers une autre page portant l'image d'un lézard portant un smoking et indiquant "Hacked by Cyber Caliphate". En dessous, on pouvait lire "follow the cyber caliphate on twitter", suivi des comptes Twitter du propriétaire d'UMG, "@UMGRobert" et du PDG d'UMG, "@UMG_Chris". La page portait également le titre "404 - Plane Not Found", une référence apparente à la perte du vol MH370 par la compagnie aérienne l'année précédente. Malaysia Airlines a assuré à ses clients que les données des clients n'avaient pas été compromises[26].
+
+Selon les médias du monde entier, des versions de la prise de contrôle dans certaines régions comportaient la mention "ISIS will prevail" (ISIS prévaudra), ce qui a suscité des inquiétudes quant à l'association de Lizard Squad avec l'État islamique.
+
+
+fausses revendications
+
+Menaces à la bombe
+
+Le 24 août 2014, Lizard Squad a affirmé qu'un avion dans lequel se trouvait le président de Sony Online Entertainment, John Smedley (vol 362 d'American Airlines), avait des explosifs à bord[27][28] Le vol de Dallas à San Diego a fait un atterrissage imprévu à Phoenix, en Arizona. Sony Online Entertainment a annoncé que le FBI enquêtait sur l'incident[28].
+Attaque de Facebook, Instagram et Tinder
+
+Le 26 janvier 2015, plusieurs services de médias sociaux, dont Facebook et Instagram, étaient indisponibles pour les utilisateurs. Tinder et HipChat ont également été touchés. Lizard Squad a revendiqué la responsabilité des attaques, par le biais d'une publication sur un compte Twitter précédemment utilisé par le groupe[29]. La panne, initialement supposée être une attaque par déni de service distribué, a duré un peu moins d'une heure avant que les services ne soient rétablis[30].
+
+Facebook a ensuite publié une déclaration indiquant que ses propres ingénieurs étaient à blâmer et que l'interruption de ses services n'était pas le résultat d'une attaque de tiers, mais qu'elle était survenue après l'introduction d'un changement affectant ses systèmes de configuration[31].
+Photos explicites de célébrités
+
+Le 27 janvier 2015, Lizard Squad a affirmé avoir compromis les comptes Twitter et Instagram de Taylor Swift. Une fois qu'ils ont affirmé y avoir accès, ils ont menacé de publier des photos dénudées en échange de bitcoins. Taylor Swift a toutefois rétorqué qu'"il n'y avait pas de photos nues" et a dit aux délinquants de "s'amuser" à en trouver[32].
+Théorie du complot
+
+Le 4 janvier 2021, l'avocat américain et théoricien de la conspiration Lin Wood a tweeté des affirmations sans fondement selon lesquelles un groupe de pirates informatiques nommé "l'escouade des lézards" possède des preuves d'un réseau sexuel mondial impliquant plusieurs Américains de haut niveau, à l'instar de la théorie de la conspiration discréditée Qanon. Il semble qu'il n'y ait aucun rapport entre l'"équipe de lézards" mentionnée par Wood et le groupe de pirates informatiques Lizard Squad, et Vinnie Omari, un membre de Lizard Squad, réfute toute affirmation selon laquelle son groupe pourrait détenir des informations sur une organisation mondiale de trafic sexuel.
+
+Membres connus
+
+Vinnie Omari
+
+Vinnie Omari est un membre de la Lizard Squad qui a été arrêté et libéré sous caution pour les infractions présumées suivantes : "S'introduire dans/par l'acquisition/la conservation/l'utilisation ou le contrôle de biens criminels, Fraude par fausse déclaration - Fraud Act 2006, Conspiration pour voler un autre, accès non autorisé à un ordinateur avec l'intention de commettre d'autres infractions". Il a été utilisé comme visage public à la télévision et comme porte-parole des actualités pour représenter LizardSquad[34][35].
+Julius Kivimäki
+
+Julius Kivimäki (zeekill) est un membre finlandais de Lizard Squad condamné en juillet 2015 pour plus de 50 000 chefs d'accusation de crimes informatiques[36].
+Zachary Buchta
+
+Zachary Buchta (fbiarelosers), 19 ans, originaire du Maryland, a été accusé de délits informatiques associés à une série d'attaques par déni de service distribué (DDoS), au vol de cartes de crédit et à la vente de services DDoS à louer. Il était l'un des membres à l'origine de LizardSquad et du co-groupe "PoodleCorp" qui a lancé des attaques par déni de service distribué (DDoS) contre plusieurs réseaux, YouTubers et services de jeux. Buchta se cachait derrière les alias Twitter @fbiarelosers, @xotehpoodle, et les alias en ligne "pein" et "lizard" [37] [38] [39] [40].
+Bradley Jan Willem van Rooy
+
+Bradley Jan Willem van Rooy (UchihaLS), 19 ans, originaire des Pays-Bas, a été inculpé de délits informatiques liés à une série d'attaques par déni de service distribué (DDoS), au vol de cartes de crédit et à la vente de services DDoS à louer. Il était l'un des membres de LizardSquad, principalement responsable du lancement des attaques DDoS annoncées par le groupe. Il était également l'un des deux responsables du compte Twitter @LizardLands, qui est le compte Twitter principal de LizardSquad depuis janvier 2015. Il se cachait normalement derrière son alias Twitter @UchihaLS (qui signifie Uchiha LizardSquad) et ses alias en ligne "UchihaLS", "Uchiha" et "Dragon".
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
+
