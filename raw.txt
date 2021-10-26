@@ -1,0 +1,146 @@
+Historique revendiqué
+
+League of Legends DDoS
+
+On August 18, 2014, servers of the game League of Legends were taken offline with a DDoS attack; this was claimed as Lizard Squad's first attack.
+
+Destiny DDoS
+
+On November 23, 2014, Lizard Squad claimed they attacked Destiny servers with a DDoS attack.
+
+PlayStation Network DDoS
+
+On August 24, 2014 the PlayStation Network was disrupted via a DDoS attack, and again On December 8, with Lizard Squad claiming responsibility.
+
+Xbox Live DDoS
+
+On December 1, 2014, Xbox Live was apparently attacked by Lizard Squad: users attempting to connect to use the service would be given the 80151909 error code.
+
+The Machinima Hack
+
+On December 2, 2014, Lizard Squad hacked Machinima.com, replacing their front page with ASCII art of their logo.
+
+North Korea DDoS
+
+On December 22, 2014, Internet in North Korea was taken offline by a DDoS attack.[18] Lizard Squad claimed responsibility for the attack and linked to an IP address located in North Korea.[19] North Korean Internet services were restored on the 23 December 2014.
+
+
+Christmas attacks
+
+Lizard Squad had previously threatened to take down gaming services on Christmas.[21]
+
+On December 25, 2014 (Christmas Day), Lizard Squad claimed to have performed a DDoS attack on the PlayStation Network and Xbox Live. On December 26, 2014 at 2:00 AM,[when?] Lizard Squad appeared to stop attacking PlayStation Network and Xbox Live. Gizmodo reported that the attacks may have ceased after Kim Dotcom offered Lizard Squad 3000 accounts on his upload service MEGA
+
+Tor sybil attack
+
+On December 26, 2014, a Sybil attack involving more than 3000 relays was attempted against the Tor network.[23] Nodes with names beginning with "LizardNSA" began appearing, Lizard Squad claimed responsibility for this attack.[24]
+
+The relevance of the attack was questioned. According to Tor relay node operator Thomas White, the consensus system made that Lizard Squad only managed to control "0.2743% of the network, equivalent of a tiny VPS".
+
+Malaysia Airlines website attack
+
+On January 26, 2015, the website of Malaysia Airlines was attacked, apparently by Lizard Squad, calling itself a "cyber caliphate". Users were redirected to another page bearing an image of a tuxedo-wearing lizard, and reading "Hacked by Cyber Caliphate". Underneath this was text reading "follow the cyber caliphate on twitter" after which were the Twitter accounts of the owner of UMG, "@UMGRobert" and CEO of UMG, "@UMG_Chris". The page also carried the headline "404 - Plane Not Found", an apparent reference to the airline's loss of flight MH370 the previous year. Malaysia Airlines assured customers and clients that customer data had not been compromised.[26]
+
+Media reports around the world said versions of the takeover in some regions included the wording "ISIS will prevail", which listed concerns of Lizard Squad's association with the Islamic State.
+
+
+fausses revendications
+
+Bomb threats
+
+On August 24, 2014, Lizard Squad claimed that a plane on which the president of Sony Online Entertainment, John Smedley, was flying (American Airlines Flight 362), had explosives on board.[27][28] The flight from Dallas to San Diego made an unscheduled landing in Phoenix, Arizona. Sony Online Entertainment announced that the FBI was investigating the incident.[28]
+Facebook, Instagram, and Tinder attack
+
+On January 26, 2015, several social media services including Facebook and Instagram were unavailable to users. Tinder and HipChat were also affected. Lizard Squad claimed responsibility for the attacks, via a posting on a Twitter account previously used by the group.[29] The outage, originally speculated to be a distributed denial-of-service attack, lasted a little under an hour before services were restored.[30]
+
+Facebook later released a statement saying its own engineers were to blame, and that the disruption to its services was not the result of a third-party attack, but instead occurred after they introduced a change that affected their configuration systems.[31]
+Explicit celebrity photos
+
+On January 27, 2015, Lizard Squad claimed to have compromised Taylor Swift's Twitter and Instagram accounts. Once they claimed to have access, they threatened to release nude photos in exchange for bitcoins. Taylor Swift, however, retorted that "there were no naked pics" and told the offenders to "have fun" finding any.[32]
+Conspiracy theory
+
+On January 4, 2021, American lawyer and conspiracy theorist Lin Wood tweeted out baseless claims that a group of hackers named "the lizard squad" have evidence of a global sex ring involving several high profile Americans, similar to the discredited conspiracy theory Qanon.[9] There seems to be no relation between the "lizard squad" mentioned by Wood and the black-hat hacking group Lizard Squad, and Vinnie Omari, a member of the Lizard Squad, refutes any claim that his group may have information on a global sex-trafficking organization. [33] 
+
+
+
+Membres connus
+
+Vinnie Omari
+
+Vinnie Omari is a member of the Lizard Squad who was arrested and bailed under the alleged offences of "Enter into/concerned in acquisition/retention/use or control criminal property, Fraud by false representation - Fraud Act 2006, Conspire to steal from another, unauthorized computer access with intent to commit other offences". He was used as a public face on television and as a spokesperson for the news to represent LizardSquad.[34][35]
+Julius Kivimäki
+
+Julius Kivimäki (zeekill) is a Finnish member of Lizard Squad convicted in July 2015 on over 50,000 counts of computer crime.[36]
+Zachary Buchta
+
+19-year-old Zachary Buchta (fbiarelosers) from Maryland, has been charged with computer crimes associated with a series of distributed denial-of-service (DDoS) attacks, stolen credit cards and selling DDoS-for-hire services. He was one of the members behind LizardSquad and also the Co-Group "PoodleCorp" which launched distributed denial-of-service (DDoS) attacks against multiple networks, YouTubers and gaming services. Buchta was hiding behind the Twitter alias @fbiarelosers, @xotehpoodle, and the online aliases "pein" and "lizard".[37][38][39][40]
+Bradley Jan Willem van Rooy
+
+19-year-old Bradley Jan Willem van Rooy (UchihaLS) from the Netherlands, has been charged with computer crimes associated with a series of distributed denial-of-service (DDoS) attacks, stolen credit cards and selling DDoS-for-hire services. He was one of the members behind LizardSquad who was mainly responsible for launching the DDoS-attacks announced by the group. Also he was one of the two managers behind the Twitter account @LizardLands which is the main Twitter account of LizardSquad since January 2015. He was normally hiding behind his Twitter alias @UchihaLS (which stands for Uchiha LizardSquad) and the online aliases "UchihaLS", "Uchiha" and "Dragon"
+
+sources
+
+"How A Hacker Gang Literally Saved Christmas For Video Game Players Everywhere". Business Insider. Retrieved 25 December 2014.
+"Lizard Squad Hacker Collective Announces Disbanding". Softpedia News. Retrieved 26 December 2014.
+MalwareTech (December 2014). "Darkode - Ode to Lizard Squad (The Rise and Fall of a Private Community)". Retrieved 4 August 2015.
+Buncombe, August (15 July 2015). "Darkode: FBI shuts down notorious online forum and cracks 'cyber hornet's nest of criminal hackers'". The Independent.
+Paine, Justin. "Lizard Squad Ransom Threats: New Name, Same Faux Armada Collective M.O." CloudFlare Blog. CloudFlare, Inc. Retrieved 17 May 2016.
+Ashok, India (April 30, 2016). "Armada Collective impersonators now posing as Lizard Squad in DDoS scam". International Business Times. Retrieved 17 May 2016.
+Russon, Mary-Ann (May 3, 2016). "Fake 'Lizard Squad' DDoS demands hit UK businesses spurring police warning". International Business Times. Retrieved 17 May 2016.
+"Online extortion demands affecting businesses". Action Fraud. 29 April 2016. Retrieved 17 May 2016.
+"Trump-aligned attorney says he's teamed with 'Lizard Squad' to prove Supreme Court harbors pedophiles". The Daily Dot. 2021-01-04. Retrieved 2021-01-04.
+Taghavi Zargar, Saman (November 2013). "A Survey of Defense Mechanisms Against Distributed Denial of Service (DDoS) Flooding Attacks" (PDF). IEEE COMMUNICATIONS SURVEYS & TUTORIALS. pp. 2046–2069. Retrieved 2014-03-07.
+Gilbert, David (August 26, 2014). "Who Are Lizard Squad - Isis-Linked Hackers or Trolls Making Bomb Threats?". International Business Times.
+Schmitz, Alex (November 23, 2014). "Destiny Gamers Facing Connection Errors, Servers DDOS'ed by the Lizard Squad". Gamechup. Retrieved December 26, 2014.
+Zorabedian, John (August 26, 2014). ""Lizard Squad" hackers force PSN offline, and Sony exec from the sky". Naked Security. Retrieved December 26, 2014.
+"PlayStation Network Hacked 'By Lizard Squad'". Sky News. London. December 8, 2014. Retrieved December 26, 2014.
+Jones, Gary (December 9, 2014). "Sony confirm DDOS attack after Lizard Squad claim PSN 'take down' affecting PS4 and PS3: SONY have confirmed the Playstation Network was hit by a DDOS attack this week, affecting both the PS4 and PS3". Express. London. Retrieved December 26, 2014.
+McWherter, Michael (December 1, 2014). "Xbox Live having issues, hacker group claims responsibility for taking it offline [update]". Polygon. Retrieved December 26, 2014.
+"Sony hack: North Korea back online after internet outage". BBC Newsbeat. Retrieved 23 December 2014.
+"Sony hack: North Korea back online after internet outage". Ars Technica. Retrieved 23 December 2014.
+"North Korean Web goes dark days after Obama pledges response to Sony hack". Washington Post. Retrieved 23 December 2014.
+"Sony hack: North Korea back online after internet outage". BBC News. BBC. Retrieved 23 December 2014.
+"Xbox Live: Lizard Squad hackers promise DDoS attacks at Christmas". International Business Times. Retrieved 25 December 2014.
+"Kim Dotcom May Have Just Saved Holiday Gaming". Gizmodo. Retrieved 26 December 2014.
+"[tor-consensus-health] Possible Sybil Attack". "tor-consensus-health" mailing list. Retrieved 26 December 2014.
+"Hackers Who Shut Down PSN and Xbox Live Now Attacking Tor". Gizmodo. Retrieved 26 December 2014.
+TheCthulhu [@CthulhuSec] (26 December 2014). "Congrats to Lizard Squad people who with 3300 or so relays control 0.2743% of the network. Equivalent of a tiny VPS" (Tweet). Retrieved 26 December 2014 – via Twitter.
+Malaysia Airlines website 'compromised' by 'cyber caliphate' Lizard Squad hackers, ABC News Australia, 26 Jan 2015
+"Who Are Lizard Squad - Isis-Linked Hackers or Trolls Making Bomb Threats?". International Business Times. Retrieved 23 December 2014.
+"Hackers Ground Sony Executive's Flight With Bomb-Threat Tweet". Forbes. Retrieved 26 December 2014.
+Lizard Squad, Facebook, Instagram, Tinder, AIM, Hipchat #offline #LizardSquad, Twitter, January 26, 2015
+Hachman, Mark, Internet problems take out Facebook, Instagram, others; Lizard Squad takes credit, PC World, January 26, 2015
+"Facebook says it caused fault that sent services offline". BBC News. Retrieved 27 January 2015.
+Esther, Lee. "Taylor Swift's Social Media Accounts Hacked, Threatened With Nude Photo Leak: Read Her Response". US Weekly. Retrieved 27 January 2015.
+"Pro-Trump Lawyer Lin Wood Is Doing a Helluva Job Convincing People He's Not Insane". www.vice.com. Retrieved 2021-01-04.
+"Krebs on security article on Lizard Squad". Retrieved 30 January 2015.
+"LizardSquad Statement to Vinnie Omari".
+"Lizard Squad hacker convicted on 50,000 hacking charges". The Daily Dot. 7 July 2015. Retrieved 13 April 2016.
+"Feds Accuse Two 19-Year-Olds Of Hacking For Lizard Squad and PoodleCorp".
+"Feds arrest two alleged teenage members of Lizard Squad and PoodleCorp".
+"Members of Hacker Groups PoodleCorp and Lizard Squad Arrested and Charged By the FBI".
+"American and Dutch Teenagers Arrested on Criminal Charges for Allegedly Operating International Cyber-Attack-For-Hire Websites".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
